@@ -5,9 +5,7 @@
 - What is the relationship between participation and test scores?
 - How can we increase participation for the SAT?
 
-## Executive Summary
-
-### Contents:
+## Contents:
 - 2017 Data Import & Cleaning
 - 2018 Data Import and Cleaning
 - Exploratory Data Analysis
@@ -35,6 +33,10 @@
 ## Conclusion
 
 Participation rates and scores are negatively correlated: as participation increases, scores increase.
+
+Below are graphs that demonstrate this negative correlation:
+![Participation vs. Scores for the ACT](images/scatter-ACT.png)
+![Participation vs. Scores for the SAT](images/scatter-SAT.png)
 
 States that have SAT School Days also have greater overall participation. 
 
