@@ -38,7 +38,7 @@ Below are graphs that demonstrate this negative correlation:
 ![Participation vs. Scores for the ACT](images/scatter-ACT.png)
 ![Participation vs. Scores for the SAT](images/scatter-SAT.png)
 
-States that have SAT School Days also have greater overall participation. 
+In addition, I have found that states that have SAT School Days also have greater overall participation. 
 
 ## Recommendations
 
